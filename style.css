@@ -22,12 +22,14 @@ body {
 	border: 5px solid black;
 	border-radius: 50%;
 	float: left;
+	margin: 20px;
 
 }
 
 .header-bio {
 	float: left;
 	padding: 30px;
+	margin-top: 20px;
 
 }
 
